@@ -1,9 +1,0 @@
-D:\selfproject\WindowsFormsAppForIde\WindowsFormsAppForIde\bin\Debug\WindowsFormsAppForIde.exe
-D:\selfproject\WindowsFormsAppForIde\WindowsFormsAppForIde\bin\Debug\WindowsFormsAppForIde.pdb
-D:\selfproject\WindowsFormsAppForIde\WindowsFormsAppForIde\obj\Debug\WindowsFormsAppForIde.csprojAssemblyReference.cache
-D:\selfproject\WindowsFormsAppForIde\WindowsFormsAppForIde\obj\Debug\WindowsFormsAppForIde.Form1.resources
-D:\selfproject\WindowsFormsAppForIde\WindowsFormsAppForIde\obj\Debug\WindowsFormsAppForIde.Properties.Resources.resources
-D:\selfproject\WindowsFormsAppForIde\WindowsFormsAppForIde\obj\Debug\WindowsFormsAppForIde.csproj.GenerateResource.cache
-D:\selfproject\WindowsFormsAppForIde\WindowsFormsAppForIde\obj\Debug\WindowsFormsAppForIde.csproj.CoreCompileInputs.cache
-D:\selfproject\WindowsFormsAppForIde\WindowsFormsAppForIde\obj\Debug\WindowsFormsAppForIde.exe
-D:\selfproject\WindowsFormsAppForIde\WindowsFormsAppForIde\obj\Debug\WindowsFormsAppForIde.pdb
