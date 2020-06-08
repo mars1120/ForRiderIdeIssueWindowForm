@@ -11,13 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba4aeb83-8b81-4c09-8e1d-aa52233441e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.vs/WindowsFormsAppForIde/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/WindowsFormsAppForIde/v16/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsFormsAppForIde/bin/Debug/WindowsFormsAppForIde.exe" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsAppForIde/bin/Debug/WindowsFormsAppForIde.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsFormsAppForIde/bin/Debug/WindowsFormsAppForIde.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsAppForIde/bin/Debug/WindowsFormsAppForIde.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsFormsAppForIde/obj/Debug/WindowsFormsAppForIde.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsAppForIde/obj/Debug/WindowsFormsAppForIde.csproj.GenerateResource.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsFormsAppForIde/obj/Debug/WindowsFormsAppForIde.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsAppForIde/obj/Debug/WindowsFormsAppForIde.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsFormsAppForIde/obj/Debug/WindowsFormsAppForIde.exe" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsAppForIde/obj/Debug/WindowsFormsAppForIde.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsFormsAppForIde/obj/Debug/WindowsFormsAppForIde.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsAppForIde/obj/Debug/WindowsFormsAppForIde.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WindowsFormsAppForIde/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WindowsFormsAppForIde/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WindowsFormsAppForIde/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsAppForIde/Form1.Designer.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,11 +23,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Form1.Designer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Form1.Designer.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WindowsFormsAppForIde/Form1.resx" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WindowsFormsAppForIde/Form1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WindowsFormsAppForIde/Form1.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Form1.Designer.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WindowsFormsAppForIde/Form1.Designer.cs" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1d1xXY8FW28jc534UOXrM920VoX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -74,6 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1591606440698</updated>
       <workItem from="1591606448365" duration="335000" />
+      <workItem from="1591608324991" duration="288000" />
     </task>
     <servers />
   </component>
@@ -92,11 +99,28 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1664" height="234" key="GridCell.Tab.0.bottom" timestamp="1591608075123">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1664" height="234" key="GridCell.Tab.0.bottom/-1920.1064.1536.792/0.0.1707.920@0.0.1707.920" timestamp="1591608075123" />
+    <state width="1664" height="234" key="GridCell.Tab.0.center" timestamp="1591608075123">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1664" height="234" key="GridCell.Tab.0.center/-1920.1064.1536.792/0.0.1707.920@0.0.1707.920" timestamp="1591608075123" />
+    <state width="1664" height="234" key="GridCell.Tab.0.left" timestamp="1591608075123">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1664" height="234" key="GridCell.Tab.0.left/-1920.1064.1536.792/0.0.1707.920@0.0.1707.920" timestamp="1591608075123" />
+    <state width="1664" height="234" key="GridCell.Tab.0.right" timestamp="1591608075123">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1664" height="234" key="GridCell.Tab.0.right/-1920.1064.1536.792/0.0.1707.920@0.0.1707.920" timestamp="1591608075123" />
     <state x="356" y="105" key="SettingsEditor" timestamp="1591606567193">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
